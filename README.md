@@ -1,5 +1,7 @@
 Hi there! 🤗
+
 My name is Giovanna Ribeiro.
+
 - 👩🏻‍🎓👩🏻‍🏫👩🏻‍💻 I’m a PhD student, an undergrad professor and RA at Datazoom at the Economics Department of PUC-Rio
 - 🌱 I’m currently learning to navigate on GitHub and improve my R skills
 - 👩🏻‍💻 I'm proficient in Stata and Latex
